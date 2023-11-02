@@ -17,7 +17,7 @@ Atividade para a matéria de desenvolvimento web
     </nav>
   </header>
   <main class="page-main">
-    <h1>Promoção do momento</h1>
+    <h1>Promoções do momento</h1>
     <div class="product-filter">
       <fieldset>
         <legend>Ano de lançamento</legend>
